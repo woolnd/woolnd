@@ -18,8 +18,6 @@
 
 
 <div align="center">
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woolnd&show_icons=true&theme=transparent)
 	
 <h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages & Tools✨</p>
