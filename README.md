@@ -16,9 +16,8 @@
  
 </div>
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woolnd&show_icons=true&theme=transparent)
 <div align="center">
-	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woolnd&layout=compact">
 	<h3>📚 Tech Stack 📚</h3>
 		<p>✨ Platforms & Languages & Tools✨</p>
   
@@ -30,4 +29,4 @@
 
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woolnd&show_icons=true&theme=transparent)
+
