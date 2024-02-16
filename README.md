@@ -10,7 +10,7 @@
   🏆 UMC 4th Android part challenger <br>
   🔥 UMC 5th Ulsan University Leader <br>
   🏆 Hanium Project Android Developer <br>
-  🏆 Prometheus AI Hackathon Android Developer(Grand Prize) <br>
+  🏆 Prometheus AI Hackathon Grand Prize <br>
 
   <br>
  
