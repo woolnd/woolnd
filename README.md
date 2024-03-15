@@ -1,8 +1,6 @@
 <div align="center">
 	<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wo_olnd"/>
 	<h3>👋 JAE WOONG 👋 </h3>
-	
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoolnd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/woolnd) <a href="https://velog.io/@wodnd"><img src="https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a>
 
   🎓 울산대학교 IT융합학과 재학  
   🏆 UMC 4th Android part challenger <br>
@@ -10,6 +8,8 @@
   🔥 UMC 6th Ulsan University Deputy Leader <br>
   🏆 Hanium Project Android Developer <br>
   🏆 Prometheus AI Hackathon Android Developer Grand Prize <br>
+
+    [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwoolnd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/woolnd) <a href="https://velog.io/@wodnd"><img src="https://img.shields.io/badge/-Velog-20C997?style=flat-square&logo=Velog&logoColor=white&"/></a>
 
   <br>
  
