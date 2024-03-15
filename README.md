@@ -18,8 +18,6 @@
 
 
 <div align="center">
-	<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wo_olnd"/>
-	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woolnd&layout=compact">
 	<h3>📚 Tech Stack 📚</h3>
 		<p>✨ Platforms & Languages & Tools✨</p>
   
@@ -31,6 +29,11 @@
 <br>
 <img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /> 
 
+</div>
+
+<div align="center">
+	<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wo_olnd"/>
+	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woolnd&layout=compact">	
 </div>
 
 
