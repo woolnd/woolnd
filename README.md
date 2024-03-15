@@ -12,12 +12,13 @@
   🏆 Prometheus AI Hackathon Android Developer Grand Prize <br>
   <br>
 
-  <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wo_olnd"/>
+  
  
 </div>
 
 
 <div align="center">
+	<img align="left" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wo_olnd"/>
 	<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=woolnd&layout=compact">
 	<h3>📚 Tech Stack 📚</h3>
 		<p>✨ Platforms & Languages & Tools✨</p>
