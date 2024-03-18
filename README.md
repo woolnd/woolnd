@@ -36,7 +36,7 @@
 </div>
 
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wo_olnd)](https://solved.ac/wo_olnd/)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wo_olnd">
 <img src="http://mazandi.herokuapp.com/api?handle=wo_olnd&theme=warm"/>
 
 
