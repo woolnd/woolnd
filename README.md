@@ -35,7 +35,8 @@
 
 </div>
 
-<br>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wo_olnd"> <img src="http://mazandi.herokuapp.com/api?handle=wo_olnd&theme=warm"/>
+<div>
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wo_olnd"> <img src="http://mazandi.herokuapp.com/api?handle=wo_olnd&theme=warm"/>
+</div>
 
 
