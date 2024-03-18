@@ -32,8 +32,10 @@
 </div>
 
 <div>
-	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wo_olnd"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woolnd&layout=compact">	
+	[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wo_olnd)](https://solved.ac/ryu_eclipse/)
+	![mazandi profile](http://mazandi.herokuapp.com/api?handle=wo_olnd&theme=warm)
+<!-- 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wo_olnd"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woolnd&layout=compact">	 -->
 </div>
 
 
