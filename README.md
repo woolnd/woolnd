@@ -32,7 +32,7 @@
 </div>
 
 <br>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wo_olnd)](https://solved.ac/wo_olnd)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wo_olnd)](https://solved.ac/wo_olnd/)
 <img src="http://mazandi.herokuapp.com/api?handle=wo_olnd&theme=warm"/>
 
 
