@@ -33,6 +33,7 @@
 
 <div>
 	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wo_olnd"/>
+	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woolnd&layout=compact)
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woolnd&layout=compact">	
 </div>
 
