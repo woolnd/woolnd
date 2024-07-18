@@ -11,6 +11,7 @@
   🔥 9oormthon.univ Ulsan University Leader, iOS <br>
   🏆 Hanium Project Android Developer <br>
   🏆 Prometheus AI Hackathon Android Developer Grand Prize <br>
+  🏆 CapstoneDesign MoodMingle(AI App) iOS Developer Grand Prize <br>
   <br>
 </div>
 
