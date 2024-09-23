@@ -7,8 +7,8 @@
   🎓 울산대학교 IT융합학과 재학  
   🏆 UMC 4th Android part challenger <br>
   🏆 UMC 5th Ulsan University Leader <br>
-  🔥 UMC 6th Ulsan University Deputy Leader, iOS <br>
-  🔥 9oormthon.univ Ulsan University Leader, iOS <br>
+  🔥 UMC 6th Ulsan University Deputy Leader <br>
+  🔥 9oormthon.univ Ulsan University Leader <br>
   🏆 Hanium Project Android Developer <br>
   🏆 Prometheus AI Hackathon Android Developer Grand Prize <br>
   🏆 CapstoneDesign MoodMingle(AI App) iOS Developer Grand Prize <br>
@@ -35,7 +35,8 @@
 <br>
 
 <div>
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wo_olnd"> <img src="http://mazandi.herokuapp.com/api?handle=wo_olnd&theme=warm"/>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wo_olnd">	
+<!-- <img src="http://mazandi.herokuapp.com/api?handle=wo_olnd&theme=warm"/> -->
 </div>
 
 
