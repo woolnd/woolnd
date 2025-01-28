@@ -8,7 +8,7 @@
   🏆 UMC 4th Android part challenger <br>
   🏆 UMC 5th Ulsan University Leader <br>
   🏆 UMC 6th Ulsan University Deputy Leader <br>
-  🔥 9oormthon.univ Ulsan University Leader <br>
+  🏆 9oormthon.univ Ulsan University Leader, SWIPO(Regional Point App) iOS Developer<br>
   🏆 Hanium Project Android Developer <br>
   🏆 Prometheus AI Hackathon Android Developer, Grand Prize <br>
   🏆 CapstoneDesign MoodMingle(AI Diary App) iOS Developer, Grand Prize <br>
