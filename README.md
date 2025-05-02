@@ -17,18 +17,20 @@
 
 <div>
 <h3>📚 Tech Stack 📚</h3>
-<h4>✨Languages✨</h4>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/> 
-<br>
+<p>
+    <code>Swift</code>
+    <code>iOS</code>
+    <code>UIKit</code>
+    <code>SwiftUI</code>
+    <code>Combine</code>
+    <code>Alamofire</code>
+    <br>
+    <code>Git</code>
+    <code>Notion</code>
+    <code>Figma</code>
+    <code>Postman</code>
+  </p>
 
-<h4>✨ Platforms✨</h4>
-<img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
-<br>
-
-<h4>✨Tools✨</h4>
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" /> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=AndroidStudio&logoColor=white" /> <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white" /> 
-<br>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /> 
 </div>
 
 <br>
