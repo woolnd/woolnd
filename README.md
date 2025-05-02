@@ -10,7 +10,7 @@
   🏆 Hanium Project Android Developer <br>
   🏆 Prometheus AI Hackathon Android Developer, Grand Prize <br>
   🏆 CapstoneDesign MoodMingle(AI Diary App) iOS Developer, Grand Prize <br>
-  🔥 nanaland in Jeju(Jeju Local Recommended Travel App) iOS Developer <br>
+  🏆 nanaland in Jeju(Jeju Local Recommended Travel App) iOS Developer <br>
   <br>
 </div>
 
