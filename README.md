@@ -2,7 +2,7 @@
 	<h3>👋 JAE WOONG 👋 </h3>
 	
 
-  🎓 울산대학교 IT융합학과 재학  
+  🎓 울산대학교 IT융합학과 졸업  
   🏆 UMC 4th Android part challenger <br>
   🏆 UMC 5th Ulsan University Leader <br>
   🏆 UMC 6th Ulsan University Deputy Leader <br>
@@ -11,6 +11,7 @@
   🏆 Prometheus AI Hackathon Android Developer, Grand Prize <br>
   🏆 CapstoneDesign MoodMingle(AI Diary App) iOS Developer, Grand Prize <br>
   🏆 nanaland in Jeju(Jeju Local Recommended Travel App) iOS Developer <br>
+  🔥 앗차!(Last train notification App) iOS Developer <br>
   <br>
 </div>
 
