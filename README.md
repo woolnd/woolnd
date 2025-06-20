@@ -24,7 +24,7 @@
     <code>UIKit</code>
     <code>SwiftUI</code>
     <code>Combine</code>
-    <code>Alamofire</code>
+    <code>SnapKit</code>
     <br>
     <code>Git</code>
     <code>Notion</code>
