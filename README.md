@@ -1,17 +1,17 @@
 <div>
-	<h3>👋 JAE WOONG 👋 </h3>
+	<h3>👋 EUM JAE WOONG 👋 </h3>
 	
 
   🎓 울산대학교 IT융합학과 졸업  
-  🏆 UMC 4th Android part challenger <br>
-  🏆 UMC 5th Ulsan University Leader <br>
-  🏆 UMC 6th Ulsan University Deputy Leader <br>
-  🏆 9oormthon.univ Ulsan University Leader, SWIPO(Regional Point App) iOS Developer<br>
-  🏆 Hanium Project Android Developer <br>
-  🏆 Prometheus AI Hackathon Android Developer, Grand Prize <br>
-  🏆 CapstoneDesign MoodMingle(AI Diary App) iOS Developer, Grand Prize <br>
-  🏆 nanaland in Jeju(Jeju Local Recommended Travel App) iOS Developer <br>
-  🔥 앗차!(Last train notification App) iOS Developer <br>
+  🏆 UMC(University Makeus Challenge) 4기 Android 파트 챌린저 <br>
+  🏆 UMC(University Makeus Challenge) 5기 울산대학교 회장 <br>
+  🏆 UMC(University Makeus Challenge) 6기 울산대학교 부회장 & iOS 개발 용병 <br>
+  🏆 구름톤 유니브 3기 울산대학교 대표 & SWIPO(2030세대의 ‘지역 상생 가맹점’ 이용률 저조 개선 앱) iOS Developer<br>
+  🏆 한이음 프로젝트 Android Developer <br>
+  🏆 Prometheus AI Hackathon Android Developer, 최우수상 <br>
+  🏆 CapstoneDesign MoodMingle(AI를 활용한 감정일기 답변 앱) iOS Developer, 최우수상 <br>
+  🏆 nanaland in Jeju(제주도 로컬 여행 추천 앱) iOS Developer <br>
+  🔥 앗차!(막차 알림 서비스 앱) iOS Developer <br>
   <br>
 </div>
 
