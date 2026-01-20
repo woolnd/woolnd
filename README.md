@@ -1,5 +1,5 @@
 <div>
-	<h3>👋 EUM JAE WOONG 👋 </h3>
+	<h3>👋 JAEWOONG EUM 👋 </h3>
 	
 
   🎓 울산대학교 IT융합학과 졸업  
