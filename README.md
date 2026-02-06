@@ -36,7 +36,7 @@
 ---
 
 ### 📦 iOS SDK
-- **[GradientFlow SDK](https://github.com/woolnd/GradientFlow)** — iOS용 커스터마이징 가능한 애니메이션 그라데이션 텍스트 라벨 SDK
+- **[GradientFlow](https://github.com/woolnd/GradientFlow)** — iOS용 커스터마이징 가능한 애니메이션 그라데이션 텍스트 라벨 SDK
 ---
 
 ### 🧠 Algorithm
