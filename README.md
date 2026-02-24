@@ -24,7 +24,7 @@
 ### 📚 Tech Stack
 
 `Swift` `iOS` `UIKit` `SwiftUI` `Combine` `SnapKit`  
-`Git` `Notion` `Figma` `Postman`
+`CI/CD` `Git` `Notion` `Figma` 
 
 ---
 
