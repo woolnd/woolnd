@@ -38,8 +38,8 @@
 ### 🧠 Algorithm
 <div align="center">
 
-| **Baekjoon (Solved.ac)** | **LeetCode (Stats)** |
+| **Baekjoon (Solved.ac)** | **Programmers** |
 | :---: | :---: |
-| ![Solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=wo_olnd) | [![Leetcode Stats](https://leetcard.jacoblin.cool/Wodnd)](https://leetcode.com/Wodnd) |
+| ![Solved.ac](https://mazassumnida.wtf/api/v2/generate_badge?boj=wo_olnd) | ![Programmers Badge](https://api.programmers-badge.jh8459.com/badge/fec893184153.svg) |
 
 </div>
